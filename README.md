@@ -28,12 +28,12 @@ TextUtils is a feature-rich React.js application that empowers users to manipula
 
 ## Demo
 
-🚀 
+🚀 http://localhost:3000/
 
 ## Screenshots
 
 ### Light Mode
-![Light Mode Screenshot](#)  
+! 
 
 
 ### Dark Mode
