@@ -1,62 +1,114 @@
+# TextUtils
 
-Below concepts has been used while building this app:
+TextUtils is a feature-rich React.js application that empowers users to manipulate text efficiently. It includes a suite of tools for text analysis, transformation, and enhancement, making it perfect for writers, developers, and anyone working with text data.
 
-- JSX
-- Rendering Elements
-- Function based components
-- Props
-- PropTypes
-- DefaultProps
-- Event Handling
-- useState hook
-- Bootstrap(UI)
+## Features
+
+- **Text Transformation**
+  - Convert text to **Uppercase**
+  - Convert text to **Lowercase**
+  - **Remove Extra Spaces**
+  - **Copy to Clipboard**
+
+- **Text Analysis**
+  - Count **Words** and **Characters**
+  - Estimate **Reading Time**
+
+- **User-Friendly Interface**
+  - Simple and intuitive UI
+  - Real-time results
+
+- **Dark Mode Support**
+  - Switch between **Light Mode** and **Dark Mode** to suit your preference
+
+## Tech Stack
+
+- **Frontend**: React.js, HTML, CSS, JavaScript, BootStrap
+- **Tools**: React Router 
+
+## Demo
+
+🚀 
+
+## Screenshots
+
+### Light Mode
+![Light Mode Screenshot](#)  
+
+
+### Dark Mode
+![Dark Mode Screenshot](#)  
+
+## Installation
+
+Follow these steps to run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/textutils.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd textutils
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+
+5. Open the application in your browser:
+   ```
+   http://localhost:3000
+   ```
+
+## How to Use
+
+1. Enter or paste your text into the input area.
+2. Choose the desired operation:
+   - Uppercase or Lowercase conversion
+   - Remove extra spaces
+   - Copy the text to your clipboard
+3. View real-time analysis including word and character count, and estimated reading time.
+4. Toggle between Light Mode and Dark Mode as needed.
 
 ## Folder Structure
 
 ```
-|-- README.md
-|-- package-lock.json
-|-- package.json
-|-- public
-|   |-- favicon-16x16.png
-|   |-- favicon-32x32.png
-|   |-- favicon-96x96.png
-|   |-- favicon.ico
-|   |-- index.html
-|   |-- manifest.json
-|   `-- robots.txt
-`-- src
-    |-- App.css
-    |-- App.js
-    |-- App.test.js
-    |-- components
-    |   |-- About.js
-    |   |-- Alert.js
-    |   |-- Footer.js
-    |   |-- Navbar.js
-    |   `-- TextForm.js
-    |-- index.css
-    |-- index.js
-    |-- logo.svg
-    |-- reportWebVitals.js
-    `-- setupTests.js
+TextUtils/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── TextForm.js
+│   │   ├── About.js
+│   ├── App.js
+│   ├── index.js
+│   └── App.css
+├── package.json
+└── README.md
 ```
 
-## About an app
+## Contributing
 
-Textutils gives you a way to 
+Contributions are welcome! Please follow these steps:
 
-- analyze your text quickly and efficiently 
-- word count, 
-- character count or 
-- reading time
-  
-This word counter software works in any web browsers such as Chrome, Firefox, IE, Safari, Opera. 
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch-name`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch-name`).
+5. Open a pull request.
 
-It suits to count characters in Facebook, Blog, Books, Excel Document, PDF Document, Essays etc.
+## Feedback
 
-## Follow below steps to configure it in your local
+If you have any feedback or suggestions, feel free to reach out at samadhansargar5050@gmail.com.
 
-1. `git clone https://github.com/sagar-shiroya/react-text-utils.git` (Clone it in your local)
-2. `npm install` (Installing dependencies)
-3. `npm run start` (Run an application)
+---
+
+Enjoy using TextUtils! 🎉
