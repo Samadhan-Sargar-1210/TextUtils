@@ -33,11 +33,11 @@ TextUtils is a feature-rich React.js application that empowers users to manipula
 ## Screenshots
 
 ### Light Mode
-! 
+D:\React JS Basic To Advance\Video 5 - Project 1\react-text-utils\Assests
 
 
 ### Dark Mode
-![Dark Mode Screenshot](#)  
+!  
 
 ## Installation
 
