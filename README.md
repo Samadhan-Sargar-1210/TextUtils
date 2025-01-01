@@ -37,7 +37,7 @@ TextUtils is a feature-rich React.js application that empowers users to manipula
 
 ### Dark Mode
 ![Dark Mode](https://github.com/user-attachments/assets/9975c072-3665-4dbe-be23-e868e2279dd6)
-!  
+
 
 ## Installation
 
